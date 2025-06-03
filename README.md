@@ -1,12 +1,15 @@
-# Forge Hello World
+# Venkat's first Jira quest
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira project page. 
+This is my first jira forge application. Displays
+<br>
+<br>
+<br>
+<font size="5">Venkat's first Jira quest</font>
 
-See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
+<font size="6">Hello {user}</font><br>
+<font>Welcome to the {project_key} project!</font>
 
-## Requirements
-
-See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
+<font>Current theme: LIGHT</font>
 
 ## Quick start
 - Install dependecies
